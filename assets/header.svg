@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Deshan Dinidu</title><desc id="desc">Building ideas into working software. TypeScript, JavaScript, Node.js and .NET.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101f35"/><stop offset="1" stop-color="#080e1b"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5c9ee" stroke-opacity=".045"/></pattern>
+</defs>
+<style>
+ .orbit{transform-origin:974px 211px;animation:turn 28s linear infinite}.pulse{animation:pulse 3s ease-in-out infinite}
+ @keyframes turn{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.3}}
+ @media(prefers-reduced-motion:reduce){.orbit,.pulse{animation:none}}
+ text{font-family:Arial,Helvetica,sans-serif}
+</style>
+<rect width="1200" height="440" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+<path d="M48 0H1152" stroke="url(#accent)" stroke-width="3"/>
+<circle cx="61" cy="61" r="5" fill="#67e8f9" class="pulse"/>
+<text x="78" y="66" font-size="13" letter-spacing="3" fill="#94a9c4">DESHAN / DEVELOPER</text>
+<text x="54" y="162" font-size="74" font-weight="700" letter-spacing="-3" fill="#f1f5f9">Deshan Dinidu<tspan fill="#67e8f9">.</tspan></text>
+<text x="58" y="215" font-size="27" fill="#cbd5e1">Building ideas into</text>
+<text x="58" y="253" font-size="27" fill="#67e8f9">working software.</text>
+<path d="M58 294H704" stroke="#24364d"/>
+<text x="58" y="332" font-size="15" fill="#94a9c4" letter-spacing="1">TYPESCRIPT   /   JAVASCRIPT   /   NODE.JS   /   .NET</text>
+<text x="58" y="391" font-size="12" fill="#647a99" letter-spacing="2">EXPLORE THE WORK BELOW ↓</text>
+<circle cx="974" cy="211" r="151" fill="none" stroke="#1d3049"/>
+<circle cx="974" cy="211" r="114" fill="none" stroke="#243e58" stroke-dasharray="4 10"/>
+<g class="orbit"><ellipse cx="974" cy="211" rx="150" ry="64" transform="rotate(-35 974 211)" fill="none" stroke="#67e8f9" stroke-opacity=".45"/><circle cx="851" cy="297" r="6" fill="#67e8f9"/></g>
+<rect x="903" y="140" width="142" height="142" rx="32" fill="#101e32" stroke="#3c5877" transform="rotate(-8 974 211)"/>
+<text x="974" y="232" text-anchor="middle" font-size="58" font-weight="700" fill="url(#accent)">&lt;/&gt;</text>
+<text x="974" y="401" text-anchor="middle" font-size="11" letter-spacing="2" fill="#647a99">DESHANDINIDU2001</text>
+</svg>
