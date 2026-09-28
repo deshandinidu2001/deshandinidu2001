@@ -14,6 +14,16 @@ Hi, I'm **Deshan**. I build across web, mobile, and backend systems with TypeScr
 
 I enjoy turning ideas into practical software, connecting interfaces to the systems behind them, and learning through building.
 
+## Education
+
+**University of Peradeniya, Sri Lanka**  
+Faculty of Engineering · Department of Computer Engineering
+
+**Degree programme:** Bachelor of the Science of Engineering Honours (BScEngHons) — Computer Engineering  
+**Batch:** E21
+
+[View my university profile ↗](https://people.ce.pdn.ac.lk/students/e21/054/)
+
 ## Selected work
 
 <a href="https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF"><img src="assets/spectraleaf.svg" width="100%" alt="01 — SpectraLeaf: tea fermentation monitoring with web, mobile and cloud. Open team repository." /></a>
