@@ -20,7 +20,7 @@
 <text x="58" y="215" font-size="27" fill="#cbd5e1">Building ideas into</text>
 <text x="58" y="253" font-size="27" fill="#67e8f9">working software.</text>
 <path d="M58 294H704" stroke="#24364d"/>
-<text x="58" y="332" font-size="15" fill="#94a9c4" letter-spacing="1">TYPESCRIPT   /   JAVASCRIPT   /   NODE.JS   /   .NET</text>
+<text x="58" y="332" font-size="15" fill="#94a9c4" letter-spacing="1">REACT   /   NEXT.JS   /   NODE.JS   /   REACT NATIVE   /   AWS</text>
 <text x="58" y="391" font-size="12" fill="#647a99" letter-spacing="2">EXPLORE THE WORK BELOW ↓</text>
 <circle cx="974" cy="211" r="151" fill="none" stroke="#1d3049"/>
 <circle cx="974" cy="211" r="114" fill="none" stroke="#243e58" stroke-dasharray="4 10"/>
