@@ -19,8 +19,7 @@ I enjoy turning ideas into practical software, connecting interfaces to the syst
 **University of Peradeniya, Sri Lanka**  
 Faculty of Engineering · Department of Computer Engineering
 
-**Degree programme:** Bachelor of the Science of Engineering Honours (BScEngHons) — Computer Engineering  
-**Batch:** E21
+**Degree programme:** Bachelor of the Science of Engineering Honours (BScEngHons) - Computer Engineering  
 
 [View my university profile ↗](https://people.ce.pdn.ac.lk/students/e21/054/)
 
