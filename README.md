@@ -109,7 +109,6 @@ Technologies I work with across my individual and team projects:
 
 - [Peraverse Kiosk](https://github.com/deshandinidu2001/Peraverse_Kiosk-main) — another JavaScript project.
 - [Browse all my repositories](https://github.com/deshandinidu2001?tab=repositories)
-- [See my GitHub activity](https://github.com/deshandinidu2001?tab=overview)
 
 </details>
 
